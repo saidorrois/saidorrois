@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saidorrois
 - 👀 I’m interested in deez nuts
-- 🌱 I’m currently learning html, css, js
+- 🌱 I’m currently learning.. how to be happy.
 
 <!---
 saidorrois/saidorrois is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
